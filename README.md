@@ -1,2 +1,5 @@
 # .github
-self-hosted learning agent collectives
+
+# self-hosted learning agent collectives
+
+[[profile/readme.md]]
