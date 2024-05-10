@@ -1,0 +1,23 @@
+{
+  "name": "@xotswarm/profile",
+  "version": "0.1.2",
+  "description": "project organization profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xotswarm/.github.git"
+  },
+  "keywords": [
+    "profile",
+    "xotswarm"
+  ],
+  "author": "xotswarm team <xotswarm@noreply.github.com> (https://github.com/xotswarm)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/xotswarm/.github/issues"
+  },
+  "homepage": "https://github.com/xotswarm/.github#readme"
+}
